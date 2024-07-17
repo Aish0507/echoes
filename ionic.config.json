@@ -1,0 +1,7 @@
+{
+  "name": "echoes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
